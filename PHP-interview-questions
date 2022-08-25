@@ -1,1 +1,9 @@
-
+1. What is the new feature of PHP 8?.
+2. Is PHP case sensitive?.
+3. What is meant by variable variables in PHP?.
+4. What are the differences between echo and print?
+5. Data types in PHP.
+6. What is resource data type?.
+7. Which function can be used to exit from the script after displaying the error message?
+8. How can you increase the maximum execution time of a script in PHP?
+9. Explain type casting and type juggling.
