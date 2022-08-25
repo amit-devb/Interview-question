@@ -6,4 +6,6 @@
 6. How do we secure APIs in Laravel and Symfony.
 7. Differnt cache adapters in Symfony and cache service providers in Laravel.
 8. What is Reverse routing?.
-9. 
+9. What is a service provider.
+10. What is a middleware and how to create a custom middleware.
+11. What is a service container.
