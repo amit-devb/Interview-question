@@ -1,0 +1,9 @@
+1. Synfony vs Laravel, when to use?.
+2. Explain Response-request cycle for each Frameworks?.
+3. What is dependency injection.
+4. What is auto register and auto wiring in symfony.
+5. Explain doctrine events.
+6. How do we secure APIs in Laravel and Symfony.
+7. Differnt cache adapters in Symfony and cache service providers in Laravel.
+8. What is Reverse routing?.
+9. 
