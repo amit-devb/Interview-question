@@ -7,3 +7,46 @@
 7. Which function can be used to exit from the script after displaying the error message?
 8. How can you increase the maximum execution time of a script in PHP?
 9. Explain type casting and type juggling.
+10. How to start sessions?.
+11. Explain how sessions work in PHP.
+12. Difference between session and cookies.
+13. Where is PHP session ID stored?.
+14. Any other ways to store PHPSESSID?.
+15. Difference between include and require?
+16. Difference between include and include_once?
+17. what does escaping mean in PHP.
+18. Engine used in PHP.
+19. Explain php internal work.
+20. Difference between unlink() and unset().
+21. Explain strpos().
+22. What is the difference between substr() and strstr()?
+23. How yo increase PHP script execution time?.
+24. what is the default upload size of a file?.
+24. How to increase upload size?.
+25. Difference between const and define()?.
+26. Describe some super global variables?.
+27. Do you know about SPL library.
+28. Explain Reflection API.
+29. Explain autoloading.
+30. Types of error in PHP.
+31. Which functions are used to remove whitespaces from the string?
+32. How can a cross-site scripting attack be prevented by PHP?
+33. What is garbage collection?
+34. What is URL rewriting?
+35. Name different vulnerabilities?
+36. How to avoid CSRF attack?.
+37. What is PDO?
+38. What is the default session time and how can we change it?.
+39. What are namespaces?.
+40. What are the magic method in PHP?
+41. What is T_PAAMAYIM_NEKUDOTAYIM in PHP?
+42. How to get no of arguments passed to a PHP Function?
+43. How will you calculate days between two dates in PHP?
+44. What is Cross-site scripting. How can we prevent it?
+45. What is php.ini & .htacess file?
+46. Difference between PHP 5 and 7?
+47. Explain preg_Match and preg_replace?
+48. Diferrence between explode() and split()?.
+49. Difference between array_merge and array_combine?
+50. How to remove duplicate elements from an array?
+
