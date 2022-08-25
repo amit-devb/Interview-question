@@ -1,0 +1,18 @@
+1. CHAR vs VARCHAR.
+2. FLOAT VS DOUBLE>
+3. INT VS TINYINT.
+4. ACID properties.
+5. Normalization.
+6. Indexing.
+7. What is trigger?.
+8. What is a view.
+9. What is a stored procedure.
+10. Difference between where and having.
+11. Explain the order of query execution.
+13. How to prevent SQL injection.
+14. SQL vs NOSQL.
+14. How to efficiently push a million row data?.
+15. Find max and second max salary of employees.
+16. Find 3rd highest salary of employees department wise.
+17. What are DML, DLL, DCL, TCL commands in SQL.
+18. How to optimize a query?.
