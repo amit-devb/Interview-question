@@ -17,3 +17,4 @@
 17. What are DML, DLL, DCL, TCL commands in SQL.
 18. How to optimize a query?.
 19. Explain Full text-search and indexing.
+20. what is persistent DB connection.
